@@ -1,0 +1,8 @@
+.DS_Store
+*.rar
+*.zip
+work/
+transcript
+*.vcd
+*.wlf
+
